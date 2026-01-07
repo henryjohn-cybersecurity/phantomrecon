@@ -1,0 +1,15 @@
+app:
+  name: PhantomRecon
+  version: 0.1
+  mode: passive
+
+limits:
+  requests_per_minute: 30
+  delay_between_requests: 2
+
+ip_lookup:
+  provider: ip-api
+  timeout: 10
+
+output:
+  format: console
