@@ -44,7 +44,7 @@ def print_list(label, items):
 
 def main():
     html_path = None
-    target = "mercury.com"
+    target = "example.com"
 
     # ================== BASE RECON ==================
     intel = domain_intel(target)
