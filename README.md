@@ -32,27 +32,27 @@ JSON, HTML & PDF report generation
 
 **Installation**
 
-Clone the Repository
+Clone the Repository:
 
 git clone https://github.com/henryjohn-cybersecurity/PhantomRecon.git
 
 cd PhantomRecon
 
-Create a Virtual Environment
+Create a Virtual Environment:
 
 python -m venv venv
 
-Activate the Virtual Environment
+Activate the Virtual Environment:
 
-Windows
+Windows;
 
 venv\Scripts\activate
 
-Linux / macOS
+Linux / macOS;
 
 source venv/bin/activate
 
-Install Dependencies
+Install Dependencies:
 
 pip install -r requirements.txt
 
@@ -155,5 +155,5 @@ Ideas, bug reports, and improvements are encouraged.
 
 ⭐ If you find PhantomRecon useful, please consider starring the repository!
 
-⭐ If you find PhantomRecon useful, please consider starring the repository!
+
 
