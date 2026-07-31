@@ -135,8 +135,7 @@ Effiong Henry John
 
 Cybersecurity Analyst | Ethical Hacker | OSINT Researcher
 
-LinkedIn: https://www.linkedin.com/in/-johenryhn-395707270
-
+LinkedIn: https://www.linkedin.com/in/henrycyber?utm_source=share_via&utm_content=profile&utm_medium=member_android
 Email: intergrity660@gmail.com
 
 **Contributing**
